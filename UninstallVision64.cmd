@@ -1,0 +1,1 @@
+msiexec /x "C:\temp\Vision_9.3.0_Master\Vision_x86.msi" /qn
