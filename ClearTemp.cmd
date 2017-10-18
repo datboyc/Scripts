@@ -1,1 +1,0 @@
-del tree /F /Q "C:\temp\"
